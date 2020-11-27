@@ -29,3 +29,5 @@ if __name__ == "__main__":
 
     if args.o == '+':
         print(f'{args.x} {args.o} {args.y} = {add(args.x, args.y)}')
+
+    print('Program End')
