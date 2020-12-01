@@ -2,7 +2,9 @@ import argparse
 
 
 def add(x, y):
-    """Simple addition
+    """Simple addition.
+
+    Not intended for complex numbers...
 
     Parameters
     ----------
